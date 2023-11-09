@@ -21,7 +21,8 @@
     "lucide-react": "^0.292.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.18.0"
+    "react-router-dom": "^6.18.0",
+    "test-mpc-package": "^0.0.2"
   },
   "devDependencies": {
     "@types/node": "^20.9.0",
@@ -36,5 +37,22 @@
     "typescript": "^5.0.2",
     "vite": "^4.4.5",
     "vite-plugin-dts": "^3.6.3"
-  }
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dung1312091/test-mpc-package.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dung1312091/test-mpc-package/issues"
+  },
+  "homepage": "https://github.com/Dung1312091/test-mpc-package#readme"
 }

@@ -15,7 +15,7 @@ export default defineConfig({
       },
       formats: ['es'],
     },
-    sourcemap: true
+    sourcemap: true,
   }
 })
 
